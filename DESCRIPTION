@@ -3,7 +3,7 @@ Version: 0.0.1
 Date: 2021-06-14
 Title: PolNet2021 ERGM Workshop Materials
 Authors@R: c(person("Ted Hsuan Yun", "Chen", role=c("aut", "cre"), email="ted.hsuanyun.chen@gmail.com"))
-Depends: R (>= 4.1.0)
+Depends: R (>= 4.0.0)
 Description: Package containing miscellaneous materials required for the 2021 PolNet ERGM workshop.
 License: MIT
 Author: Ted Hsuan Yun Chen [aut, cre]
