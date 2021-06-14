@@ -2,7 +2,7 @@
   desc<- packageDescription(pkgname, libname)
   packageStartupMessage(
     '======================\n',
-    'Package:  ergmWorkshop\n',
+    'Package:  ergmWorkshopTools\n',
     'Version:  ', desc$Version, '\n',
     'Date:     ', desc$Date, '\n',
     'Author:   Ted Hsuan Yun Chen (Aalto University and University of Helsinki)\n'
